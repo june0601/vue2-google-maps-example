@@ -1,5 +1,8 @@
 # vue-google-maps-example
 
+### Error not fix :
+utc_offset is deprecated as of November 2019. Use utc_offset_minutes instead.
+
 ## Project setup
 ```
 npm install
